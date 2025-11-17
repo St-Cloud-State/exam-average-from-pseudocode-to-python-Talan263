@@ -1,14 +1,20 @@
 """
-Full Name:
-Class-Section:
-Assignment Title:
-Submission Date:
+Talan Wessman
+IS 250-01
+exam average project
+11-16-2025
 """
-"""
-Write your pseudocode here.
-Do not write any Python code in this section.
-Your pseudocode should describe your overall approach in your own words.
-"""
+
+#define your function as calculate_average()
+
+#prompt the user to enter the scores
+#add the three scores together
+#divide the total score by the number of scores entered
+#display the individual scores and the average
+
+
+
+
 
 # Your Python code begins below this line.
 # Every line you write must have a comment directly above it.
